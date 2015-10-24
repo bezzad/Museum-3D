@@ -1,0 +1,8 @@
+D:\Graphic Saman\Museum Project\GNRoom\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Graphic Saman\Museum Project\GNRoom\obj\x86\Debug\Museum.MainForm.resources
+D:\Graphic Saman\Museum Project\GNRoom\obj\x86\Debug\Museum.csproj.GenerateResource.Cache
+D:\Graphic Saman\Museum Project\GNRoom\bin\x86\Debug\Museum.exe
+D:\Graphic Saman\Museum Project\GNRoom\bin\x86\Debug\Museum.pdb
+D:\Graphic Saman\Museum Project\GNRoom\obj\x86\Debug\Museum.Properties.Resources.resources
+D:\Graphic Saman\Museum Project\GNRoom\obj\x86\Debug\Museum.exe
+D:\Graphic Saman\Museum Project\GNRoom\obj\x86\Debug\Museum.pdb

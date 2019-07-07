@@ -108,3 +108,5 @@ G:\Projects\Museum-3D\Museum Project\GNRoom\bin\x86\Debug\Microsoft.DirectX.Dire
 G:\Projects\Museum-3D\Museum Project\GNRoom\bin\x86\Debug\Microsoft.DirectX.DirectInput.xml
 G:\Projects\Museum-3D\Museum Project\GNRoom\bin\x86\Debug\Microsoft.DirectX.DirectSound.xml
 G:\Projects\Museum-3D\Museum Project\GNRoom\obj\x86\Debug\Museum.csproj.CopyComplete
+G:\Projects\Museum-3D\Museum Project\GNRoom\bin\x86\Debug\Museum.exe.config
+G:\Projects\Museum-3D\Museum Project\GNRoom\obj\x86\Debug\Museum.csprojAssemblyReference.cache
